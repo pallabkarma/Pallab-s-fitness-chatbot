@@ -1,0 +1,1 @@
+Pallab's Fitness Chatbot is a simple Python script that acts as a personal trainer assistant. It interacts with the user, takes their fitness goal as input, and provides a sample 30-day workout plan. It's beginner-friendly, customizable, and a great starting point for integrating AI in fitness coaching.
